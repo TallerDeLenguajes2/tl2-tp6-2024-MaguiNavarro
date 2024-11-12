@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tl2_tp6_2024_MaguiNavarro
+build_property.RootNamespace = tl2_tp6_2024_MaguiNavarro
+build_property.ProjectDir = C:\Users\Magui Navarro\Desktop\Facultad\Taller2\Tp6\tl2-tp6-2024-MaguiNavarro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Magui Navarro\Desktop\Facultad\Taller2\Tp6\tl2-tp6-2024-MaguiNavarro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Presupuestos/AsignarProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3VwdWVzdG9zXEFzaWduYXJQcm9kdWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Presupuestos/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3VwdWVzdG9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Presupuestos/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3VwdWVzdG9zXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Presupuestos/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3VwdWVzdG9zXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Presupuestos/Modificar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3VwdWVzdG9zXE1vZGlmaWNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Productos/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Productos/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Productos/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Productos/Modificar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXE1vZGlmaWNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Magui Navarro/Desktop/Facultad/Taller2/Tp6/tl2-tp6-2024-MaguiNavarro/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2q7ivxnr7e
