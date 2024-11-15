@@ -44,4 +44,11 @@ public class Presupuesto
     {
         Detalle.Add(detalle);
     }
+     public void añadirDetalle(List<PresupuestosDetalle> detalles)
+    {
+        foreach(var det in detalles)
+        {
+            añadirDetalle(det);
+        }
+    }
 }

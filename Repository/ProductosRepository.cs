@@ -92,14 +92,17 @@ public class ProductosRepository{
     }
      public void delete(int id)
     {
-        var querystring = "DELETE FROM Productos WHERE idProducto = @idProducto";
+        var querystring = @"DELETE FROM Productos WHERE idProducto = @idProducto";
+      
+        string query2 = @"DELETE FROM PresupuestosDetalle WHERE idPresupuesto = @Id;";
 
         using(SqliteConnection connection = new SqliteConnection(cadenaConexion)){
             connection.Open();
             SqliteCommand command = new SqliteCommand(querystring, connection);
-
+            SqliteCommand command2 = new SqliteCommand(query2, connection);
             command.Parameters.Add(new SqliteParameter("@idProducto", id));
-
+            command2.Parameters.AddWithValue("@Id", id);
+            command2.ExecuteNonQuery();
             command.ExecuteNonQuery();
 
             connection.Close();

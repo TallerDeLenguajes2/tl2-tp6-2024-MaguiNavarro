@@ -75,7 +75,7 @@ public class PresupuestosController : Controller
     }
 
     [HttpPost]
-    public IActionResult EliminarPorId(int id)
+    public IActionResult EliminarConfirm(int id)
     {
         presRep.delete(id);
         return RedirectToAction("Listar");
