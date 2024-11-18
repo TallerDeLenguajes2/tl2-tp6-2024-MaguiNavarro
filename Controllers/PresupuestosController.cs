@@ -60,7 +60,7 @@ public class PresupuestosController : Controller
     {
         var presupuesto = presRep.GetPresupuesto(presupuestoVista.IdPresupuesto);
 
-        presupuesto.NombreDestinatario = presupuestoVista.NombreDestinatario;
+        presupuesto.Cliente.ClienteId = presupuestoVista.Cliente.ClienteId;
         presupuesto.FechaCreacion = presupuestoVista.FechaCreacion;
         presRep.modificar(presupuesto);
 

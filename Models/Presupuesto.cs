@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Presupuesto
 {
     private int idPresupuesto;
-    private string nombreDestinatario;
+    private Cliente cliente;
     private List <PresupuestosDetalle> detalle;
        DateTime fechaCreacion;
  
@@ -16,10 +16,10 @@ public class Presupuesto
 
    }
     public List<PresupuestosDetalle> Detalle { get => detalle;   }
-    public string NombreDestinatario { get => nombreDestinatario; set=>nombreDestinatario=value ; }
+
     public int IdPresupuesto { get => idPresupuesto; set=>idPresupuesto =value;   }
      public DateTime FechaCreacion { get => fechaCreacion; set => fechaCreacion = value; }
-
+    public Cliente Cliente { get => cliente; set => cliente = value; }
 
     public int MontoPresupuesto( ){
        int total= 0;
